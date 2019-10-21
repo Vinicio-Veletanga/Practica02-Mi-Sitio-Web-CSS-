@@ -1,41 +1,72 @@
-﻿h1{
+﻿h1 {
     text-align: center;
     color: black;
     width: 600px;
-   font-size:40;
-   float: left;
+    font-size: 40;
+    float: left;
 }
-h4{
+
+#tt {
+    text-align: center;
+    color: white;
+    width: 900px;
+    font-size: 40;
+    float: center;
+    line-height: 30px;
+}
+
+#ps2 {
+    text-align: left;
+    line-height: 30px;
+    font-size: 30px;
+    float: left;
+}
+
+h4 {
     text-align: right;
     color: gray;
     top: 50px;
     float: right;
 }
-*{border: solid;}
 
-.columna1{
+
+/*
+* {
+    border: solid;
+}*/
+
+.columna1 {
     color: blue;
     float: left;
     width: 600px;
 }
 
-.columna2{
+.columna2 {
     color: green;
     float: right;
-    width: 1200px;
+    width: 1263px;
+    background-color: rosybrown;
+    opacity: 0.7;
+    border-radius: 20px;
+    text-align: center;
 }
-footer{
+
+footer {
     font-size: 20px;
     float: right;
+    color: seashell;
 }
-h3{
+
+h3 {
     border-radius: 60px;
     background-color: green;
     line-height: 50px;
     text-align: center;
-    opacity: 0.5;
+    opacity: 0.7;
+    font-size: 40px;
 }
-p{
+
+p {
     color: black;
     opacity: 1;
 }
