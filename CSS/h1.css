@@ -1,4 +1,24 @@
 ﻿h1{
     text-align: center;
-    color: red;
+    color: black;
+    width: 600px;
+   font-size:40;
+   float: left;
+}
+h4{
+    text-align: right;
+    color: gray;
+    top: 50px;
+    float: right;
+}
+*{border: solid;}
+
+.columna1{
+    color: blue;
+    float: left;
+}
+
+.columna2{
+    color: green;
+    float: right;
 }
