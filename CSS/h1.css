@@ -16,9 +16,26 @@ h4{
 .columna1{
     color: blue;
     float: left;
+    width: 600px;
 }
 
 .columna2{
     color: green;
     float: right;
+    width: 1200px;
+}
+footer{
+    font-size: 20px;
+    float: right;
+}
+h3{
+    border-radius: 60px;
+    background-color: green;
+    line-height: 50px;
+    text-align: center;
+    opacity: 0.5;
+}
+p{
+    color: black;
+    opacity: 1;
 }
