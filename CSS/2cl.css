@@ -1,0 +1,86 @@
+﻿    h1 {
+        text-align: center;
+        color: black;
+        width: 600px;
+        font-size: 40px;
+        float: left;
+    }
+    
+    #cuerpo {
+        background-color: chocolate;
+    }
+    
+    #tt {
+        text-align: center;
+        color: white;
+        width: 900px;
+        font-size: 40px;
+        float: center;
+        line-height: 30px;
+    }
+    
+    #motor {
+        float: left;
+    }
+    
+    #chasis {
+        float: right;
+    }
+    
+    #ps2 {
+        text-align: left;
+        line-height: 30px;
+        font-size: 30px;
+        float: left;
+    }
+    
+    #ps1 {
+        text-align: left;
+        line-height: 30px;
+        font-size: 30px;
+        float: left;
+    }
+    
+    h4 {
+        text-align: right;
+        color: gray;
+        top: 50px;
+        float: right;
+        width: 300px;
+    }
+    
+    .columna1 {
+        color: blue;
+        float: left;
+        width: 400px;
+    }
+    
+    .columna2 {
+        color: green;
+        float: right;
+        width: 1000px;
+        background-color: rosybrown;
+        opacity: 0.9;
+        border-radius: 20px;
+        text-align: center;
+    }
+    
+    footer {
+        font-size: 30px;
+        float: left;
+        color: seashell;
+    }
+    
+    h3 {
+        border-radius: 60px;
+        background-color: green;
+        line-height: 100px;
+        text-align: center;
+        opacity: 1;
+        font-size: 20px;
+    }
+    
+    p {
+        color: black;
+        opacity: 1;
+    }
