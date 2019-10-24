@@ -1,15 +1,15 @@
 body {
-    background-color: teal;
+    background-color: #00BC97;
 }
 
 .cab {
-    background-color: wheat;
+    background-color: #FFF192;
     width: 1900px;
     height: 200px;
 }
 
 .nave {
-    background-color: chocolate;
+    background-color: #994D00;
     width: 400px;
     height: 800px;
     float: left;
@@ -21,7 +21,7 @@ h1 {
 
 h3 {
     border-radius: 60px;
-    background-color: chocolate;
+    background-color: #994D00;
     line-height: 80px;
     text-align: center;
     opacity: 1;
@@ -73,6 +73,14 @@ input {
     float: right;
 }
 
+#enviar {
+    background-color: #65ACFF;
+}
+
+#enviar:hover {
+    background-color: #5186FF;
+}
+
 h4 {
     line-height: 50px;
     font-size: 40px;
@@ -90,7 +98,6 @@ label {
 }
 
 #mensaje {
-    width: 200;
     height: 100px;
     float: right;
 }
@@ -105,7 +112,7 @@ label {
 
 h3:hover {
     font-size: 30px;
-    background-color: darkcyan;
+    background-color: #3ADEFE;
 }
 
 a {
@@ -114,8 +121,16 @@ a {
     text-decoration: none;
 }
 
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: red;
+}
+
 input:focus {
-    background-color: cornflowerblue;
+    background-color: #5186FF;
 }
 
 p {
