@@ -1,0 +1,48 @@
+body {
+    background-color: teal;
+}
+
+.cab {
+    background-color: wheat;
+    width: 1900px;
+    height: 200px;
+}
+
+.nave {
+    background-color: chocolate;
+    width: 500px;
+    height: 800px;
+}
+
+h1 {
+    float: right;
+}
+
+h3 {
+    text-decoration-line: none;
+    ;
+    border-radius: 60px;
+    background-color: chocolate;
+    line-height: 100px;
+    text-align: center;
+    opacity: 1;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#ico {
+    opacity: 0.5;
+}
+
+#ico {
+    border-radius: 10px 50px 90px 10px;
+}
+
+h3:hover {
+    font-size: 30px;
+    background-color: darkcyan;
+}
+
+a {
+    text-decoration: none;
+}
