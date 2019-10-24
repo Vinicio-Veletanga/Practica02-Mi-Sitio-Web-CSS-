@@ -10,8 +10,9 @@ body {
 
 .nave {
     background-color: chocolate;
-    width: 500px;
+    width: 400px;
     height: 800px;
+    float: left;
 }
 
 h1 {
@@ -19,15 +20,79 @@ h1 {
 }
 
 h3 {
-    text-decoration-line: none;
-    ;
     border-radius: 60px;
     background-color: chocolate;
-    line-height: 100px;
+    line-height: 80px;
     text-align: center;
     opacity: 1;
     font-size: 20px;
-    text-decoration: none;
+}
+
+.formu {
+    width: 800px;
+    height: 650px;
+    float: left;
+}
+
+.videos {
+    width: 350px;
+    height: 500px;
+    float: left;
+}
+
+.vide {
+    width: 300px;
+    height: 800px;
+    float: right;
+}
+
+.preg {
+    width: 350px;
+    height: 400px;
+    float: left;
+}
+
+footer {
+    font-size: 30px;
+    width: 1900px;
+    float: left;
+    color: seashell;
+}
+
+.cajas {
+    width: 125px;
+    height: 800px;
+    float: right;
+}
+
+input {
+    line-height: 10px;
+    font-size: 40px;
+    width: 400px;
+    height: 40px;
+    float: right;
+}
+
+h4 {
+    line-height: 50px;
+    font-size: 40px;
+    width: 400px;
+    height: 10px;
+    float: right;
+}
+
+label {
+    line-height: 10px;
+    font-size: 40px;
+    width: 350px;
+    height: 10px;
+    float: right;
+}
+
+#mensaje {
+    width: 200;
+    height: 100px;
+    float: right;
 }
 
 #ico {
@@ -44,5 +109,15 @@ h3:hover {
 }
 
 a {
+    width: 100px;
+    height: 20px;
     text-decoration: none;
+}
+
+input:focus {
+    background-color: cornflowerblue;
+}
+
+p {
+    text-align: left;
 }
